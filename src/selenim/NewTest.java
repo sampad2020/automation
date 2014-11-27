@@ -7,6 +7,6 @@ public class NewTest {
 	WebDriver driver;
   @Test
   public void f() {
-	  System.out.println("demo");
+	  System.out.println("demo1");
   }
 }
